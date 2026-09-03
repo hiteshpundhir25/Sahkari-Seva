@@ -1,0 +1,125 @@
+{
+  "app_name": "Sahakari Seva",
+  "app_tagline": "Cooperative Gig Services Platform",
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "why_coop": "Why Cooperative?",
+    "about": "About Us",
+    "dashboard": "Dashboard",
+    "login": "Sign In",
+    "register": "Join as Worker / Customer",
+    "logout": "Logout"
+  },
+  "roles": {
+    "customer": "Customer",
+    "worker": "Skilled Worker",
+    "admin": "Cooperative Admin"
+  },
+  "hero": {
+    "badge": "🇮🇳 Government Registered Cooperative Federation",
+    "title_main": "Direct, Fair & Dignified",
+    "title_highlight": "Cooperative Gig Services",
+    "subtitle": "Discover certified electricians, plumbers, carpenters, caregivers & technicians directly backed by registered Labour Cooperatives. 100% transparent pricing with social security for workers.",
+    "search_category_placeholder": "Select Service Category...",
+    "search_pincode_placeholder": "Enter Pincode (e.g. 110001)...",
+    "find_workers": "Find Verified Workers",
+    "emergency_btn": "⚡ Need Emergency Service Now?"
+  },
+  "coop_ethos": {
+    "title": "Why Choose a Cooperative Platform?",
+    "subtitle": "Reclaiming dignity for India's skilled gig workers while delivering trustworthy, honest services to households.",
+    "comparison_commercial_title": "Conventional Extractive App",
+    "comparison_commercial_point1": "Takes 25% - 35% hefty commission from workers",
+    "comparison_commercial_point2": "Algorithmically sets prices & penalizes workers",
+    "comparison_commercial_point3": "Zero social security, pension, or health coverage",
+    "comparison_commercial_point4": "Private corporate shareholder profits prioritized",
+    "comparison_coop_title": "Sahakari Seva (Our Platform)",
+    "comparison_coop_point1": "Worker receives 85% of fee directly with zero hidden cuts",
+    "comparison_coop_point2": "Cooperative members set fair standardized base rates",
+    "comparison_coop_point3": "10% contribution goes directly into Worker Welfare & Group Health Shield",
+    "comparison_coop_point4": "100% democratic cooperative governance & background verification",
+    "split_worker": "85% To Worker Directly",
+    "split_welfare": "10% Health & Pension Fund",
+    "split_platform": "5% Platform Operations"
+  },
+  "services_sec": {
+    "title": "Cooperative Certified Services",
+    "subtitle": "Fairly priced, background verified, and guaranteed by local labour federations.",
+    "starting_from": "Starts from",
+    "emergency_supported": "24/7 Emergency Available",
+    "book_now": "Book Service"
+  },
+  "worker_spotlight": {
+    "title": "Meet Our Verified Cooperative Members",
+    "subtitle": "Trained, certified, insured, and verified by registered federations.",
+    "view_profile": "View Profile & Book",
+    "verified_badge": "Co-op Verified",
+    "exp_years": "yrs exp",
+    "jobs_done": "jobs completed"
+  },
+  "stats": {
+    "verified_workers": "Verified Professionals",
+    "cooperatives": "Affiliated Federations",
+    "welfare_corpus": "Welfare Fund Corpus",
+    "satisfaction": "Customer Rating"
+  },
+  "booking": {
+    "create_title": "Book Verified Professional",
+    "select_date": "Select Date",
+    "select_time": "Select Time Slot",
+    "service_address": "Service Address",
+    "enter_pincode": "Pincode",
+    "issue_description": "Describe the requirement or issue...",
+    "emergency_toggle": "Mark as Emergency Job (Priority 30-min dispatch)",
+    "price_breakdown": "Transparent Cooperative Breakdown",
+    "base_rate": "Base Service Rate",
+    "worker_share": "Direct Worker Compensation (85%)",
+    "welfare_share": "Cooperative Welfare Contribution (10%)",
+    "platform_share": "Platform Maintenance (5%)",
+    "total_payable": "Total Estimated Amount",
+    "confirm_booking": "Confirm & Send Booking Request",
+    "status": {
+      "pending": "Pending Acceptance",
+      "accepted": "Accepted & Scheduled",
+      "in_progress": "Work In Progress",
+      "completed": "Completed",
+      "cancelled": "Cancelled",
+      "rejected": "Declined"
+    }
+  },
+  "payment": {
+    "pay_now": "Pay Securely",
+    "demo_mode_notice": "DEMO PAYMENT MODE (No real bank charges)",
+    "select_method": "Select Payment Method",
+    "upi": "UPI (GPay / PhonePe / Paytm)",
+    "card": "Debit / Credit Card",
+    "netbanking": "Net Banking",
+    "demo_pay": "Simulate Instant Payment",
+    "success_title": "Payment Successful!",
+    "view_invoice": "View & Print Invoice"
+  },
+  "rating": {
+    "rate_worker": "Rate Your Experience",
+    "feedback_placeholder": "Write your feedback about punctuality, skill and behavior...",
+    "submit": "Submit Review"
+  },
+  "admin": {
+    "title": "Cooperative Governance Portal",
+    "federation": "Delhi Shramik Sahakari Sangh",
+    "verification_queue": "Worker Verification Queue",
+    "approve": "Approve & Certify",
+    "reject": "Reject",
+    "forecasting_title": "Demand Forecast Prototype",
+    "forecasting_badge": "Statistical Heuristic Engine"
+  },
+  "worker_portal": {
+    "title": "Worker Service Dashboard",
+    "availability": "Duty Status",
+    "online": "Available for Work",
+    "emergency_duty": "Emergency Ready",
+    "offline": "Off Duty",
+    "earnings_summary": "Net Earnings & Welfare",
+    "welfare_status": "Social Security Status"
+  }
+}
